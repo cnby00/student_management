@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">947222283851-0i34td9ps4ejjc9ana7ih3ud6nfen890.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">947222283851</string>
+    <string name="google_api_key" translatable="false">AIzaSyCIgeyRMvir_96eqkVr6pAGhcWJP9mKsy4</string>
+    <string name="google_app_id" translatable="false">1:947222283851:android:6586d047d12cbb8115efce</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCIgeyRMvir_96eqkVr6pAGhcWJP9mKsy4</string>
+    <string name="google_storage_bucket" translatable="false">student-management-a98a4.appspot.com</string>
+    <string name="project_id" translatable="false">student-management-a98a4</string>
+</resources>
